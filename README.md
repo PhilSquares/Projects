@@ -1,2 +1,2 @@
 # Projects
-This repo contains projects that I've worked on both independently or with others. 
+This repo contains projects that I've worked on both independently and with others. 
